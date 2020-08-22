@@ -71,6 +71,7 @@
       true,
       "single"
     ],
+    "no-unused-expression": [true, "allow-fast-null-checks"],
     "trailing-comma": false,
     "no-conflicting-lifecycle": true,
     "no-host-metadata-property": true,
